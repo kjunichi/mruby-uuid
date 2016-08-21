@@ -1,0 +1,6 @@
+name: mruby-uuid
+description: Uuid class
+author: @kjunichi
+website: https://github.com/kjunichi/mruby-uuid
+protocol: git
+repository: https://github.com/kjunichi/mruby-uuid.git
