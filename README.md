@@ -13,13 +13,8 @@ end
 ```
 ## example
 ```ruby
-p Uuid.hi
-#=> "hi!!"
-t = Uuid.new "hello"
-p t.hello
-#=> "hello"
-p t.bye
-#=> "hello bye"
+p Uuid.uuid
+#=> "f557e3a6-c3a8-4862-8e13-1d17f2d3e87e"
 ```
 
 ## License
