@@ -10,7 +10,7 @@
 #include "mruby/data.h"
 #include "mrb_uuid.h"
 
-#include <ossp/uuid.h>
+#include <uuid.h>
 
 #define DONE mrb_gc_arena_restore(mrb, 0);
 
